@@ -1,2 +1,3 @@
-# portfolio
-This github repository contains my previous work samples.
+# Welcome to My Portfolio
+
+Hi! I am pleased you gave me this opportunity to present my work. Without wasting any of your time, I would like to introduce myself. My name is Muhammad Ali Abbas and I am a 25 years old young web developer from Pakistan. I am experienced in developing website using core web technologies like HTML, CSS, JavaScript, and PHP mainly. However, there are variety of other web technologies that come handy while developing stunning web designs. The process of developing web pages could be challenging and require technical knowledge and skills to produce quality products. Therefore, I have worked on developing portfolio of my previous work that will give you a chance to admire my work and would be glad to start working with you.
